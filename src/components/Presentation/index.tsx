@@ -4,7 +4,7 @@ import { MessageCircle } from "lucide-react";
 
 const Presentation = () => {
     return (
-        <section className="presentation">
+        <section className="presentation" id="inicio">
             {/* Background */}
             <div className="presentation__bg">
                 <div className="presentation__overlay"></div>
@@ -24,21 +24,19 @@ const Presentation = () => {
                     <div className="presentation__tag">
                         <div className="presentation__line"></div>
                         <span>
-                            Derecho de Familia & Litigios
+                            Derecho Penal, Familia y Violencia
                         </span>
                     </div>
 
                     {/* Título */}
                     <h1 className="presentation__title">
-                        Defendemos lo tuyo. <br />
-                        <span>Cuidamos tu paz.</span>
+                        Claridad legal en <br />
+                        <span>momentos complejos.</span>
                     </h1>
 
                     {/* Texto */}
                     <p className="presentation__text">
-                        Asesoría legal humana y estratégica. Te acompañamos en cada etapa del
-                        proceso con claridad, para que tomes las mejores decisiones sin
-                        desgaste innecesario.
+                        Asistencia jurídica con intervención estratégica y humana. Te acompaño en conflictos familiares y procesos penales brindando respuestas claras cuando más lo necesitás.
                     </p>
 
                     {/* Botones */}

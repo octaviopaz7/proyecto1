@@ -5,7 +5,7 @@ import './about.css';
 
 const About = () => {
   return (
-    <section className="about" id="la-firma">
+    <section className="about" id="sobre-mi">
       <div className="about__container">
         
         {/* Columna Izquierda: Texto */}
