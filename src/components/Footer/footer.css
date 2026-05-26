@@ -1,13 +1,7 @@
 .footer {
-    --solana-deep-blue: #2b3d61;
-    --solana-sky-blue: #b6d0e5;
-    --solana-cream: #f5f4f0;
-    --solana-blue-gray: #9095a9;
-    --font-serif: 'Playfair Display', serif;
-    --font-sans: 'Inter', sans-serif;
-
     background-color: var(--solana-deep-blue);
     padding: 100px 24px 0; 
+    overflow: hidden;
 }
 
 

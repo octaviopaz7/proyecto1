@@ -153,6 +153,7 @@
     font-size: 12px;
     text-transform: uppercase;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .header__cta:hover {
@@ -198,6 +199,7 @@
 @media (min-width: 1024px) {
     .header__menu {
         display: flex;
+        
     }
 
     .header__right {
